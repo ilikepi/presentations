@@ -53,3 +53,50 @@
 <li><https://speakerdeck.com/neerajdotname/active-record-is-still-magical></li>
 <li><http://confreaks.com/videos/2460-railsconf2013-an-intervention-for-activerecord></li>
 </ul>
+
+<!SLIDE smbullets>
+
+## Rails Soujourn (@mdesjardins)
+
+* experience with a short-term non-Rails side-project
+* writing Rack apps, Sinatra, etc
+
+<br/>
+
+<div class="linkedlist">
+<ul>
+<li><http://www.slideshare.net/mdesjardins/rails-sojourn-one-mans-journey-wicked-good-ruby-conference-2013></li>
+</ul>
+
+<!SLIDE smbullets>
+
+## Naming Is Hard! (@jyurek)
+
+<br/>
+
+<div class="linkedlist">
+<ul>
+<li><https://github.com/jyurek/naming-is-hard></li>
+</ul>
+
+<!SLIDE smbullets>
+
+## Securing Your Rails App (@nicholaides)
+
+<br/>
+
+<div class="linkedlist">
+<ul>
+</ul>
+
+<!SLIDE smbullets>
+
+## Securing Your Rails App (@nicholaides)
+
+* walk-through of outside-in BDD via Capybara
+
+<br/>
+
+<div class="linkedlist">
+<ul>
+</ul>
