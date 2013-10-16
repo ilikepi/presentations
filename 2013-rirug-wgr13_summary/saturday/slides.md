@@ -20,7 +20,7 @@
 
 <div class="linkedlist">
 <ul>
-<li>http://matt.aimonetti.net/posts/2013/10/14/bad-code-doesnt-exist/</li>
+<li><http://matt.aimonetti.net/posts/2013/10/14/bad-code-doesnt-exist/></li>
 </ul>
 
 <!SLIDE smbullets>
@@ -35,7 +35,7 @@
 
 <div class="linkedlist">
 <ul>
-<li>https://charlie.bz/files/mri-magic-tricks.pdf</li>
+<li><https://charlie.bz/files/mri-magic-tricks.pdf></li>
 </ul>
 
 <!SLIDE smbullets>
@@ -50,6 +50,6 @@
 
 <div class="linkedlist">
 <ul>
-<li>https://speakerdeck.com/neerajdotname/active-record-is-still-magical</li>
-<li>http://confreaks.com/videos/2460-railsconf2013-an-intervention-for-activerecord</li>
+<li><https://speakerdeck.com/neerajdotname/active-record-is-still-magical></li>
+<li><http://confreaks.com/videos/2460-railsconf2013-an-intervention-for-activerecord></li>
 </ul>
