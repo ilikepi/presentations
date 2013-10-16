@@ -3,6 +3,7 @@
   "sections": [
                 {"section":"open"},
                 {"section":"saturday"},
-                {"section":"sunday"}
+                {"section":"sunday"},
+                {"section":"close"}
               ]
 }
