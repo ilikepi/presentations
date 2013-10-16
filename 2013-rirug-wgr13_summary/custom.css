@@ -1,4 +1,6 @@
 .linkedlist {
+  position: absolute;
+  bottom: 80px;
   padding-left: 30px;
   font-size: 1em;
 }
