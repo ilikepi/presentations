@@ -91,7 +91,7 @@
 
 <!SLIDE smbullets>
 
-## Securing Your Rails App (@nicholaides)
+## Outside-In Testing (@ngauthier)
 
 * walk-through of outside-in BDD via Capybara
 
