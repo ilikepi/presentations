@@ -1,0 +1,6 @@
+<!SLIDE>
+
+## Thanks! =^.^=
+
+@dpie
+@iLikeMu

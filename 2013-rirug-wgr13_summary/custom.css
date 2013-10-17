@@ -1,0 +1,15 @@
+.content ul li {
+  text-align: left;
+}
+
+.linkedlist {
+  position: absolute;
+  bottom: 80px;
+  padding-left: 30px;
+  font-size: 1em;
+}
+
+.linkedlist a {
+  text-decoration: none;
+  color: #000;
+}

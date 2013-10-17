@@ -1,0 +1,9 @@
+{
+  "name": "Experiences at Wicked Good Ruby 2013",
+  "sections": [
+                {"section":"open"},
+                {"section":"saturday"},
+                {"section":"sunday"},
+                {"section":"close"}
+              ]
+}
