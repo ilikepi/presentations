@@ -1,3 +1,7 @@
+.content ul li {
+  text-align: left;
+}
+
 .linkedlist {
   position: absolute;
   bottom: 80px;
