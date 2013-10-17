@@ -2,7 +2,7 @@
 
 ## Creativity with Ruby-Processing (@joannecheng)
 
-* tech demo
+* experiments with data visualization
 
 <br/>
 

@@ -27,7 +27,6 @@
 
 ## MRI Magic Tricks (@charliesome)
 
-* tech demo
 * exploiting 3 MRI bugs to rescue from segfaults
 * finding hidden objects by poking around in the heap
 
